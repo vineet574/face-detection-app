@@ -13,3 +13,8 @@ A simple web app that detects faces in real-time using OpenCV and Streamlit.
 ## Installation
 ```bash
 pip install -r requirements.txt
+Run the App
+streamlit run app.py
+
+
+
